@@ -1,4 +1,4 @@
-![Untitled (Banner (Landscape)) (8000 × 2210 px) (850 × 221 px) (2)](https://user-images.githubusercontent.com/27333551/206831871-12bfdcf2-aa0c-4296-9351-0f4950db2655.gif)
+![neonpop banner](https://user-images.githubusercontent.com/27333551/206851385-17256d91-0084-4fc7-bb2a-be01bbf81c9f.gif)
 
 {{ LANGUAGE_TEMPLATE_START }}
 ![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
