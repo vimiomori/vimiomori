@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Vimiomori's GitHub stats](https://github-readme-stats.vercel.app/api?username=vimiomori&count_private=true&show_icons=true&title_color=00e4ff&text_color=82eaff&icon_color=ffcefb&bg_color=003950&border_color=00bcd4&ring_color=ffcefb,82eaff,00e4ff)](https://github.com/anuraghazra/github-readme-stats)
+[![Vimiomori's GitHub stats](https://github-readme-stats.vercel.app/api?username=vimiomori&count_private=true&show_icons=true&title_color=00e4ff&text_color=82eaff&icon_color=ffcefb&bg_color=003950&border_color=00bcd4&ring_color=DEG,ffcefb,82eaff,00e4ff)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
